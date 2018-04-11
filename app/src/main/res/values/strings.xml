@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyArchitectureComponents</string>
+    <string name="api_key">AIzaSyCygSwsE_V29rmOyrW3kDLfCKMAsJWwG-0</string>
+    <string name="network_error">Internet error</string>
+    <string name="enable_loctaion">Enable location to use this app.</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_message">To fetch current location.This app needs your permission to enable location services.</string>
+    <string name="permission">Permission</string>
+</resources>
